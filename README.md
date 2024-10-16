@@ -4,5 +4,6 @@ E klade
   + txt faila izveide
   + html faila izveide
   + screen share
+  + GitHub
 
 ![fun](https://media1.tenor.com/m/65jRkhUA2MIAAAAd/yaaay-saturday-night-live.gif)!
