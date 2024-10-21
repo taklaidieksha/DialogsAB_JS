@@ -1,0 +1,24 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: gray;
+}
+
+div {
+    text-align: center;
+    padding: 20px;
+}
+
+.virsraksts {
+    font-size: 140px;
+    color: red;
+}
+
+.tekts {
+    font-size: 40px;
+    background-color: yellow;
+}
