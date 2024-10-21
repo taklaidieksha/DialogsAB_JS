@@ -7,3 +7,9 @@ E klade
   + GitHub
 
 ![fun](https://media1.tenor.com/m/65jRkhUA2MIAAAAd/yaaay-saturday-night-live.gif)!
+
+## 2. nodarbīas tēmas:
+  + Git savienošana ar VSC
+  + augšuplādēt izmainas Github caur VSC
+
+![godspeed](https://y.yarn.co/170a3192-c70b-4d35-ac4d-b7f97e50d816_text.gif)!
