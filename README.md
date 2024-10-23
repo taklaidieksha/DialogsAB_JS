@@ -13,3 +13,11 @@ E klade
   + augšuplādēt izmainas Github caur VSC
 
 ![godspeed](https://y.yarn.co/170a3192-c70b-4d35-ac4d-b7f97e50d816_text.gif)!
+
+
+## 3. nodarbības tēmas:
+  + html css js faila izveide
+  + html failā addresēt css js failus
+  + inspect console testēšana
+  + mainīgo definēšana
+![cool](https://media1.tenor.com/m/sZfq_IIDgbUAAAAC/molly-shannon.gif)!
