@@ -20,4 +20,5 @@ E klade
   + html failā addresēt css js failus
   + inspect console testēšana
   + mainīgo definēšana
+
 ![cool](https://media1.tenor.com/m/sZfq_IIDgbUAAAAC/molly-shannon.gif)!
