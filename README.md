@@ -25,6 +25,6 @@ E klade
 
 ## 6. nodarbības temas:
   + if else
-  + ...
+  + switch
 
 ![yeah](https://media1.tenor.com/m/IO3O-C8_B4YAAAAd/nod-yes.gif)!
