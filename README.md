@@ -22,3 +22,9 @@ E klade
   + mainīgo definēšana
 
 ![cool](https://media1.tenor.com/m/sZfq_IIDgbUAAAAC/molly-shannon.gif)!
+
+## 6. nodarbības temas:
+  + if else
+  + ...
+
+![yeah] (https://media1.tenor.com/m/IO3O-C8_B4YAAAAd/nod-yes.gif)!
