@@ -27,4 +27,4 @@ E klade
   + if else
   + ...
 
-![yeah] (https://media1.tenor.com/m/IO3O-C8_B4YAAAAd/nod-yes.gif)!
+![yeah](https://media1.tenor.com/m/IO3O-C8_B4YAAAAd/nod-yes.gif)!
